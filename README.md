@@ -8,19 +8,6 @@ Scanner keamanan berbasis Python untuk mendeteksi **webshell PHP, backdoor, obfu
 
 ---
 
-## Daftar Isi
-
-- [Ringkasan](#ringkasan)
-- [Instalasi](#instalasi)
-- [Cara Pakai](#cara-pakai)
-- [Ulasan Fitur](#ulasan-fitur)
-- [Kegunaan & Use Case](#kegunaan--use-case)
-- [Workflow Disarankan](#workflow-disarankan)
-- [Custom Pattern](#custom-pattern)
-- [Keterbatasan](#keterbatasan)
-
----
-
 
 | Komponen | Fungsi |
 |----------|--------|
